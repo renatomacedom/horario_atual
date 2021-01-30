@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Fluxo_financeiro from '../components/Fluxo_financeiro'
 
 Vue.use(VueRouter)
 
@@ -19,7 +20,12 @@ const routes = [
     component: function () {
       return import(/* webpackChunkName: "about" */ '../views/About.vue')
     }
-  }
+  },
+    {
+      path: '/Fluxo_financeiro',
+      name: 'Fluxo_financeiro',
+      component: Fluxo_financeiro
+    },
 ]
 
 const router = new VueRouter({
