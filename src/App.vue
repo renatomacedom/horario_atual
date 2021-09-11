@@ -1,9 +1,13 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Horário Digital</router-link> |
+      <!-- <router-link to="/">Horário Digital</router-link> |
       <router-link to="/about">Horário Analitico</router-link> |
-      <router-link to="/Fluxo_financeiro">Fluxo Financeiro</router-link>
+      <router-link to="/Fluxo_financeiro">Fluxo Financeiro</router-link> -->
+      <router-link to="/Lista_de_campeonato_volei">Campeonatos Vôlei | </router-link>
+      <router-link to="/Lista_de_campeonato_bt"> Campeonatos Beach Tennis</router-link>
+
+
     </div>
     <router-view/>
   </div>
