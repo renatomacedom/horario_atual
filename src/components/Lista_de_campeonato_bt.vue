@@ -2,10 +2,11 @@
   <div >
 
 
-  <li>
+
 <ul v-for="campeonato in info" class="card">
+    
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
-  </li>
+
   <a href="https://www.mmsociety.com.br">Conheça a MM society</a>
   </div>
 </template>
@@ -30,8 +31,8 @@ export default {
 .card{
 background-color: black;
 border-radius: 5px;
-width: 60%;
-padding-top: 25px;
+padding: 2%;
+width: 70%;
 margin-left: auto;
 margin-right: auto;
 color: white;

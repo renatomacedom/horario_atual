@@ -20,10 +20,7 @@ export default {
 
   return{
   info:[
-  {categoria:'Volei',nome_torneio:'Copa nordeste de VP ',data:'11/09/21', nivel:'Sub15 e sub 19',local:'Jõao Pessoa'},
-  {categoria:'Volei',nome_torneio:'Copa nordeste de VP ',data:'12/09/21', nivel:'sub 17 e sub 21', local:'Jõao Pessoa'},
-  {categoria:'Volei',nome_torneio:'Torneio arena cidade ',data:'12/09/21', nivel:'Quarteto amador', local:'Fortaleza - Arena cidade'},
-  {categoria:'Volei',nome_torneio:'Torneio arena cidade ',data:'12/09/21', nivel:'Dupla aberto', local:'Fortaleza - Arena cidade'},
+
   {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
 
 ],
@@ -38,11 +35,10 @@ export default {
 background-color: black;
 border-radius: 5px;
 width: 60%;
-padding-top: 25px;
+padding: 2%;
 margin-left: auto;
 margin-right: auto;
 color: white;
-height: 50px;
 }
 li{
   width: 100%;
@@ -52,6 +48,9 @@ a{
   color: white;
   margin-left: 0;
   margin-right: 0;
+}
+ul{
+  list-style-type: none;
 }
 
 </style>
