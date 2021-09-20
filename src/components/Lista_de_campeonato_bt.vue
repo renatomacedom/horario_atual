@@ -4,10 +4,10 @@
 
 
 <ul v-for="campeonato in info" class="card">
-    
+
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
 
-  <a href="https://www.mmsociety.com.br">Conheça a MM society</a>
+  <a href="https://www.mmsociety.com.br" target="_blank">Conheça a MM society</a>
   </div>
 </template>
 

@@ -2,14 +2,14 @@
   <div >
 <title>Campeonato Vôlei</title>
 <ul v-for="campeonato in info" class="card">
-  <a href="https://www.mmsociety.com.br">
 
 <li to="/Lista_de_campeonato_bt">
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}
 
   </li>
-  </a>
   </ul>
+  <a href="https://www.mmsociety.com.br" target="_blank">Conheça a MM society</a>
+
   </div>
 </template>
 
@@ -24,6 +24,7 @@ export default {
   {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
 
 ],
+
   }
 },created(){
 }
@@ -45,7 +46,7 @@ li{
 }
 a{
   text-decoration: none;
-  color: white;
+  color: black;
   margin-left: 0;
   margin-right: 0;
 }
