@@ -22,7 +22,9 @@ export default {
   info:[
 
   {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
-
+  {categoria:'Volei de praia',nome_torneio:'Mundo unifor 2021 -',data:'02/10/21-', nivel:'Escolar  sub 17-', local:'Fortaleza cactus', contato: "(85)3477-3143"},
+  {categoria:'Volei',nome_torneio:'Mundo unifor 2021 -',data:'20/10/21 a 24/10/21-', nivel:'Escolar  sub 17-', local:'Fortaleza Unifor', contato: "(85)3477-3143"},
+  {categoria:'Volei de Praia',nome_torneio:'2° circuito das águas -',data:'2/10/21 a 3/10/21-', nivel:'Amador Masculino-', local:'Preá', contato: "(85)99730-5466"},
 ],
 
   }

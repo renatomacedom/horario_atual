@@ -18,7 +18,8 @@ export default {
 
   return{
   info:[
-  {categoria:'bt',nome_torneio:'2° Preá Beach Tennis ',data:'12/09/21 a 15/09/21', nivel:'Iniciante,c,b,a,pro,+40,+50(Masculino,feminino e misto)',local:'Preá-ce'}
+  {categoria:'bt',nome_torneio:'2° Preá Beach Tennis ',data:'12/09/21 a 15/09/21', nivel:'Iniciante,c,b,a,pro,+40,+50(Masculino,feminino e misto)',local:'Preá-ce'},
+  {categoria:'BT',nome_torneio:'Mundo unifor 2021 -',data:'02/10/21', nivel:'Escolar  sub 17-', local:'Fortaleza Cactus', contato: "(85)3477-3143"},
 
 ],
   }
