@@ -7,6 +7,7 @@ import Lista_de_campeonato_bt from '../components/Lista_de_campeonato_bt'
 import Lista_de_artigos from '../components/Lista_de_artigos'
 
 
+
 Vue.use(VueRouter)
 
 const routes = [
