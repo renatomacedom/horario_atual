@@ -2,7 +2,7 @@
   <div >
 
 
-
+<title>Campeonatos de Beach tennis</title>
 <ul v-for="campeonato in info" class="card">
 
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
