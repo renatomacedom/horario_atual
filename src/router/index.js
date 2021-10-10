@@ -36,6 +36,13 @@ const routes = [
     }
   },
   {
+    path: '/FEVECE',
+    name: 'Fevece',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Fevece.vue')
+    }
+  },
+  {
     path: '/O_que_e_o_esporte',
     name: 'O_que_e_o_esporte',
     component: function () {
