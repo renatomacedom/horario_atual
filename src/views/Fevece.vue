@@ -1,6 +1,6 @@
 <template>
 <div class="artigo">
-  <h3>A federação cearense de vôlei.</h3>
+  <title><h3>A federação cearense de vôlei.</h3></title>
 
   <p>
     Atualmente a Federação Cearense de vôlei (FEVECE) é responsável pelo vôlei de quadra e pelo Vôlei de Praia. Ela é presidida pelo Ronald Nepomuceno Rocha, como presidente e pelo diretor de vôlei de praia Ariel Uchoa.Oficialmente sediada na Av.
@@ -16,4 +16,7 @@
     O torneios na praia é uma iniciativa privada para suprir uma demanda que deveria ser da federação. Integrar todas as competições relevantes do esporte numa única plataforma de modo que todos atletas que queiram participar dos torneios cearenses,
     tenham acesso a todas as informações, de forma centralizada e simplificada.
   </p>
+
+
+  </div>
 </template>
