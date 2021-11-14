@@ -1,12 +1,8 @@
 <template lang="html">
   <div >
-
-
 <title>Campeonatos de Futevolei</title>
 <ul v-for="campeonato in info" class="card">
-
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
-
   <a href="https://www.mmsociety.com.br" target="_blank">Conheça a Arena MM</a>
   </div>
 </template>
@@ -44,5 +40,4 @@ a{
   width: auto;
 
 }
-
 </style>

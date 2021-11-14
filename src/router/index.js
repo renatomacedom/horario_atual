@@ -5,7 +5,7 @@ import Fluxo_financeiro from '../components/Fluxo_financeiro'
 import Lista_de_campeonato_volei from '../components/Lista_de_campeonato_volei'
 import Lista_de_campeonato_bt from '../components/Lista_de_campeonato_bt'
 import Lista_de_artigos from '../components/Lista_de_artigos'
-import Lista_de_campeonato_Futevolei from '../components/Lista_de_campeonato_futevolei'
+import Lista_de_campeonato_futevolei from '../components/Lista_de_campeonato_futevolei'
 
 
 
@@ -65,6 +65,11 @@ const routes = [
       path: '/Lista_de_campeonato_bt',
       name: 'Lista_de_campeonato_bt',
       component: Lista_de_campeonato_bt
+    },
+    {
+      path: '/Lista_de_campeonato_futevolei',
+      name: 'Lista_de_campeonato_futevolei',
+      component: Lista_de_campeonato_futevolei
     },
     {
       path: '/Lista_de_artigos',

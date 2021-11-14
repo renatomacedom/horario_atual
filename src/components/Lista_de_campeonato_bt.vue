@@ -19,7 +19,6 @@ export default {
   return{
   info:[
   {nome_torneio:'Nenhum torneio previsto'},
-  {},
 ],
 // historico:[
 //   {
