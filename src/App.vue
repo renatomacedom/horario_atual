@@ -6,6 +6,8 @@
       <router-link to="/Fluxo_financeiro">Fluxo Financeiro</router-link> -->
       <router-link to="/Lista_de_campeonato_volei">Campeonatos Vôlei | </router-link>
       <router-link to="/Lista_de_campeonato_bt"> Campeonatos Beach Tennis |</router-link>
+      <router-link to="/Lista_de_campeonato_Futevolei"> Campeonatos Futevolei |</router-link>
+
       <router-link to="/Lista_de_artigos"> Artigos | </router-link>
       <!-- <router-link to="/O_que_e_o_esporte">esporte</router-link> | -->
 

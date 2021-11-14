@@ -2,7 +2,7 @@
   <div >
 
 
-<title>Campeonatos de Beach tennis</title>
+<title>Campeonatos de Futevolei</title>
 <ul v-for="campeonato in info" class="card">
 
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
@@ -13,20 +13,13 @@
 
 <script>
 export default {
-  name: 'Lista_de_campeonato_bt',
+  name: 'Lista_de_campeonato_futevolei',
   data(){
 
   return{
   info:[
-  {nome_torneio:'Nenhum torneio previsto'},
-  {},
+     {categoria:'Futevolei',nome_torneio:'1° Torneio MM Arena Futêvolei ',data:'20/11/21 ', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.9969-7003"},
 ],
-// historico:[
-//   {
-//     {categoria:'bt',nome_torneio:'2° Preá Beach Tennis ',data:'12/09/21 a 15/09/21', nivel:'Iniciante,c,b,a,pro,+40,+50(Masculino,feminino e misto)',local:'Preá-ce'},
-//     {categoria:'BT',nome_torneio:'Mundo unifor 2021 -',data:'02/10/21', nivel:'Escolar  sub 17-', local:'Fortaleza Cactus', contato: "(85)3477-3143"},
-//   }
-// ]
 
   }
 },created(){

@@ -5,6 +5,7 @@ import Fluxo_financeiro from '../components/Fluxo_financeiro'
 import Lista_de_campeonato_volei from '../components/Lista_de_campeonato_volei'
 import Lista_de_campeonato_bt from '../components/Lista_de_campeonato_bt'
 import Lista_de_artigos from '../components/Lista_de_artigos'
+import Lista_de_campeonato_Futevolei from '../components/Lista_de_campeonato_futevolei'
 
 
 
