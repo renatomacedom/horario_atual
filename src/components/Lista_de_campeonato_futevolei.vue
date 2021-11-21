@@ -2,7 +2,7 @@
   <div >
 <title>Campeonatos de Futevolei</title>
 <ul v-for="campeonato in info" class="card">
-  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
+  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}} Tel :{{campeonato.contato}}</ul>
   <a href="https://www.mmsociety.com.br" target="_blank">Conheça a Arena MM</a>
   </div>
 </template>
@@ -14,7 +14,12 @@ export default {
 
   return{
   info:[
-     {categoria:'Futevolei',nome_torneio:'1° Torneio MM Arena Futêvolei ',data:'20/11/21 ', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.9969-7003"},
+     {categoria:'Futevolei',nome_torneio:'1° Copa Futêvolei Mucuripe ',data:'16/12/21 a 18/12/21 ', nivel:'Iniciante a avançado',local:'Fortaleza',contato:"85 9.9913-5500"},
+     {categoria:'Futevolei',nome_torneio:'Arena Cidade ',data:'18/12/21', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.99606-0802"},
+],
+historico:[
+
+  {categoria:'Futevolei',nome_torneio:'1° Torneio MM Arena Futêvolei ',data:'20/11/21 ', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.9969-7003"},
 ],
 
   }
