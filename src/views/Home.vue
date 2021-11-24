@@ -2,7 +2,8 @@
 <div class="home">
   <img alt="Vue logo" src="../assets/logo.png">
   <br>
-  <span id="hora">{{hora}}</span>
+  <span id="hora"></span>
+  <span>{{horario}}</span>
   <HelloWorld msg="Essa é a versão Digital" />
 </div>
 </template>
@@ -19,20 +20,37 @@ export default {
   data() {
     return {
       horario: null,
+      teste:1,
     }
 
   },
 
-  mounted() {
-    setInterval(myTimer, 60);
+  created() {
+    var myVar = setInterval(myTimer, 1000);
 
-    function myTimer() {
-      var dia_atual = new Date();
-      // não consegui remover o innerhtml usando o vue js, pois não consegui a conexão dentro do mounted com o html
-      document.getElementById("hora").innerHTML = dia_atual.toLocaleTimeString() + '';
-    }
+function myTimer() {
+  var d = new Date();
+  var t = d.toLocaleTimeString();
+  this.horario = t;
+}
 
-
+function myStopFunction() {
+  clearInterval(myVar);
+}
+    //
+    // var horario = setInterval(myTimer, 60);
+    //
+    // function myTimer() {
+    //   if (teste = 1 ) {
+    //     var dia_atual = new Date();
+    //     // não consegui remover o innerhtml usando o vue js, pois não consegui a conexão dentro do mounted com o html
+    //     document.getElementById("hora").innerHTML = dia_atual.toLocaleTimeString() + '';
+    //
+    //   }
+    //
+    // }
+    //
+    //
     /*
     colocando o valor das horas na marra, visto que não sabia da existencia do "toLocaleTimeString()"
           setInterval(relogio,60);
@@ -60,7 +78,7 @@ span {
 
   text-align: center;
   font-size: 65pt;
-  font-family: clockicons, Electrolize, Iceberg, sans-serif;
+  font-family: Electrolize, Iceberg, sans-serif;
 }
 
 h2 {

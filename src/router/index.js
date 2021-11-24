@@ -14,8 +14,8 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home
+    name: 'Lista_de_campeonato_volei',
+    component: Lista_de_campeonato_volei
   },
 
   {
@@ -75,6 +75,11 @@ const routes = [
       path: '/Lista_de_artigos',
       name: 'Lista_de_artigos',
       component: Lista_de_artigos
+    },
+    {
+      path: '/horario-atual',
+      name: 'Home',
+      component: Home
     },
 ]
 
