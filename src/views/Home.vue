@@ -1,6 +1,6 @@
 <template>
 <div class="home">
-  <img alt="Vue logo" src="../assets/logo.png">
+  <img  height="30%" width="30% "alt="Logo Arena MM" src="../assets/Arena_MM.png">
   <br>
   <span id="hora"></span>
   <span>{{horario}}</span>
