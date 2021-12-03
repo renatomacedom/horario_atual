@@ -16,6 +16,8 @@ export default {
   info:[
      {categoria:'Futevolei',nome_torneio:'1° Copa Futêvolei Mucuripe ',data:'16/12/21 a 18/12/21 ', nivel:'Iniciante a avançado',local:'Fortaleza',contato:"85 9.9913-5500"},
      {categoria:'Futevolei',nome_torneio:'Arena Cidade ',data:'18/12/21', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.99606-0802"},
+     {categoria:'Futevolei',nome_torneio:'1° Copa Futevolei vale acarau ',data:'19/12/21 ', nivel:'Indefinido',local:' Sobral Arena futshow',contato:"88 9.99659-0835"},
+
 ],
 historico:[
 

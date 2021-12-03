@@ -4,7 +4,7 @@
 <ul v-for="campeonato in info" class="card">
 
 <li to="/Lista_de_campeonato_bt">
-  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}
+  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} - {{campeonato.nivel}} {{campeonato.local}}
 
   </li>
   </ul>
@@ -23,6 +23,8 @@ export default {
 
   {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'2° Taça Ceara Volei -',data:'03/12/21 a 05/12/21-', nivel:'Variado-', local:'Aracati', contato: "(88)9.9608-4431"},
+  {categoria:'Volei Praia',nome_torneio:'Campeontao cearense de VOlei de praia',data:'11/12/21 e 12/12/21-', nivel:'Masculino Aberto-', local:'Fortaleza CFO', contato: "(85)9.3456-3006"},
+
 ],
 historico:[
 

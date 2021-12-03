@@ -18,7 +18,8 @@ export default {
 
   return{
   info:[
-  {nome_torneio:'Nenhum torneio previsto'},
+      {categoria:'bt',nome_torneio:'Circuito Beach Tennis ',data:'29/01/22 a 30/01/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'85 9.8656-2563'},
+
 ],
 // historico:[
 //   {
