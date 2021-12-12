@@ -40,7 +40,7 @@ this.$router.push({ name: nome });
 
 <style lang="css" scoped>
 .card{
-background-color: #757575;
+background-color: #2D3142;
 border-radius: 5px;
 width: 71%;
 padding: 1%;
@@ -73,7 +73,7 @@ a{
 }
 button{
   color: #FFFFFF;
-  background-color: #303F9F;
+  background-color: #42b983;
   border-radius: 5px;
 }
 

@@ -1,13 +1,10 @@
 <template lang="html">
   <div >
-
-
 <title>Campeonatos de Beach tennis</title>
 <ul v-for="campeonato in info" class="card">
 
   {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
 
-  <a href="https://www.mmsociety.com.br" target="_blank">Conheça a Arena MM</a>
   </div>
 </template>
 
@@ -36,7 +33,7 @@ export default {
 
 <style lang="css" scoped>
 .card{
-background-color: black;
+background-color: #2D3142;
 border-radius: 5px;
 padding: 2%;
 width: 70%;

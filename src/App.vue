@@ -1,21 +1,24 @@
 <template>
   <div id="app">
     <div id="nav">
-      <!-- <router-link to="/">Horário Digital</router-link> |
-      <router-link to="/about">Horário Analitico</router-link> |
-      <router-link to="/Fluxo_financeiro">Fluxo Financeiro</router-link> -->
-      <router-link to="/Lista_de_campeonato_volei">Campeonatos Vôlei | </router-link>
-      <router-link to="/Lista_de_campeonato_bt"> Campeonatos Beach Tennis |</router-link>
-      <router-link to="/Lista_de_campeonato_Futevolei"> Campeonatos Futevolei |</router-link>
-
-      <router-link to="/Lista_de_artigos"> Artigos | </router-link>
-      <!-- <router-link to="/O_que_e_o_esporte">esporte</router-link> | -->
-
+      <Nav></Nav>
 
     </div>
     <router-view/>
+<Footer></Footer>
   </div>
 </template>
+<script>
+import Footer from './components/Footer'
+import Nav from './components/Nav'
+export default {
+  components: {
+    Footer,
+    Nav,
+  },
+}
+</script>
+
 
 <style>
 #app {

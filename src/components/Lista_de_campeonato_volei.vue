@@ -8,8 +8,6 @@
 
   </li>
   </ul>
-  <a href="https://www.mmsociety.com.br" target="_blank">Conheça a Arena MM </a>
-
   </div>
 </template>
 
@@ -44,7 +42,7 @@ historico:[
 
 <style lang="css" scoped>
 .card{
-background-color: black;
+background-color: #2D3142;
 border-radius: 5px;
 width: 60%;
 padding: 2%;
