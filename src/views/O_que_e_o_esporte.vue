@@ -42,3 +42,8 @@ extrínsecos”.
 
   </div>
 </template>
+<style scoped>
+.artigo{
+  text-align: justify;
+}
+</style>

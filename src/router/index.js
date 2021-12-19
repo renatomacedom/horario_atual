@@ -53,6 +53,13 @@ const routes = [
       return import(/* webpackChunkName: "about" */ '../views/O_que_e_o_esporte.vue')
     }
   },
+  {
+    path: '/Melhores_bolas',
+    name: 'Melhores_bolas',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Melhores_bolas.vue')
+    }
+  },
 
     {
       path: '/Fluxo_financeiro',
