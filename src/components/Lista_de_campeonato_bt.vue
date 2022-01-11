@@ -3,7 +3,7 @@
 <title>Campeonatos de Beach tennis</title>
 <ul v-for="campeonato in info" class="card">
 
-  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}}</ul>
+  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}} {{campeonato.contato}}</ul>
 
   </div>
 </template>
@@ -15,7 +15,10 @@ export default {
 
   return{
   info:[
-      {categoria:'bt',nome_torneio:'Circuito Beach Tennis ',data:'29/01/22 a 30/01/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'85 9.8656-2563'},
+      {categoria:'bt',nome_torneio:'Circuito Beach Tennis A12 ',data:'29/01/22 a 30/01/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'85 9.8656-2563'},
+      {categoria:'bt',nome_torneio:'Circuito Santa Praia - 2ª Etapa Água ',data:'09/02/22 a 13/02/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'https://www.circuitosantapraia.com.br/'},
+      {categoria:'bt',nome_torneio:'1º SEEDS OPEN ',data:'11/03/22 a 13/03/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Eusébio seeds', contato:'85 98150 5021'},
+
 
 ],
 // historico:[
