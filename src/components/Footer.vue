@@ -1,6 +1,6 @@
 <template>
   <div class="footer">
-    <a href="http://arenamm.com.br" target="_blank">Conheça a Arena MM</a>
+    <a href="http://www.arenamm.com.br" target="_blank">Conheça a Arena MM</a>
     <br>
     <br>
       <img src="../assets/logo_branca.png" />

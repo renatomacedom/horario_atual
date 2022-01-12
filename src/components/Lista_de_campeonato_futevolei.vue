@@ -13,14 +13,26 @@ export default {
 
   return{
   info:[
-     {categoria:'Futevolei',nome_torneio:'1° Copa Futêvolei Mucuripe ',data:'16/12/21 a 18/12/21 ', nivel:'Iniciante a avançado',local:'Fortaleza',contato:"85 9.9913-5500"},
-     {categoria:'Futevolei',nome_torneio:'Arena Cidade ',data:'18/12/21', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.99606-0802"},
-     {categoria:'Futevolei',nome_torneio:'1° Copa Futevolei vale acarau ',data:'19/12/21 ', nivel:'Indefinido',local:' Sobral Arena futshow',contato:"88 9.99659-0835"},
+    {categoria:'Futevolei',nome_torneio:'1° Etapa FCFV ',data:'março a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'Copa puro açaí ',data:'abril a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'Open barreto ',data:'maio a definir ', nivel:'Não informado',local:'Fortaleza arena barreto',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'2° Etapa FCFV ',data:'Julho a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'Copa puro açaí',data:'Agosto a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'3° Etapa FCFV ',data:'Setembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'Open barreto',data:'Novembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'4° Etapa FCFV ',data:'Dezembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+
 
 ],
 historico:[
 
   {categoria:'Futevolei',nome_torneio:'1° Torneio MM Arena Futêvolei ',data:'20/11/21 ', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.9969-7003"},
+  {categoria:'Futevolei',nome_torneio:'1° Copa Futêvolei Mucuripe ',data:'16/12/21 a 18/12/21 ', nivel:'Iniciante a avançado',local:'Fortaleza',contato:"85 9.9913-5500"},
+  {categoria:'Futevolei',nome_torneio:'Arena Cidade ',data:'18/12/21', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.99606-0802"},
+  {categoria:'Futevolei',nome_torneio:'1° Copa Futevolei vale acarau ',data:'19/12/21 ', nivel:'Indefinido',local:' Sobral Arena futshow',contato:"88 9.99659-0835"},
+   
+
+
 ],
 
   }
