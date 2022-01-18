@@ -17,9 +17,9 @@ export default {
   info:[
       {categoria:'bt',nome_torneio:'Circuito Beach Tennis A12 ',data:'29/01/22 a 30/01/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'85 9.8656-2563'},
       {categoria:'bt',nome_torneio:'Rei do sol Beach tennis ',data:'05/02/22 a 06/02/22', nivel:'Iniciante,c,b,a,pro',local:'Eusébio Arena 6450', contato:'85 99930-7000'},
-      {categoria:'bt',nome_torneio:'Circuito Santa Praia - 2ª Etapa Água ',data:'09/02/22 a 13/02/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Arena 12', contato:'https://www.circuitosantapraia.com.br/'},
-      {categoria:'bt',nome_torneio:'1º SEEDS OPEN ',data:'11/03/22 a 13/03/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Eusébio seeds', contato:'85 98150 5021'},
+      {categoria:'bt',nome_torneio:'Circuito Santa Praia - 2ª Etapa Água ',data:'09/02/22 a 13/02/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Fortaleza Santa Praia', contato:'https://www.circuitosantapraia.com.br/'},
       {categoria:'bt',nome_torneio:'1º Etapa Campeonato Cearense de Beach tennis ',data:'17/02/22 a 20/02/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Eusébio 4estaçoões', contato:'85 9.9988-7328'},
+      {categoria:'bt',nome_torneio:'1º SEEDS OPEN ',data:'11/03/22 a 13/03/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino)',local:'Eusébio seeds', contato:'85 98150 5021'},
 
 ],
 // historico:[
