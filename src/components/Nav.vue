@@ -1,9 +1,9 @@
 <template>
   <div class="nav">
-    <router-link to="/Lista_de_campeonato_volei">Campeonatos Vôlei | </router-link>
-    <router-link to="/Lista_de_campeonato_bt"> Campeonatos Beach Tennis |</router-link>
-    <router-link to="/Lista_de_campeonato_Futevolei"> Campeonatos Futevolei |</router-link>
-    <router-link to="/Lista_de_artigos"> Artigos | </router-link>
+    <router-link to="/Lista_de_campeonato_volei">Campeonatos Vôlei  </router-link>|
+    <router-link to="/Lista_de_campeonato_bt"> Campeonatos Beach Tennis </router-link>|
+    <router-link to="/Lista_de_campeonato_Futevolei"> Campeonatos Futevolei </router-link>|
+    <router-link to="/Lista_de_artigos"> Artigos  </router-link>|
     <!-- <router-link to="/">Horário Digital</router-link> |
     <router-link to="/about">Horário Analitico</router-link> |
     <router-link to="/Fluxo_financeiro">Fluxo Financeiro</router-link> -->
@@ -29,6 +29,8 @@ export default {
   padding-top: 2%;
   padding-bottom: 2%;
   background-color: #4F5D75;
+  color: #2c3e50;
+
 }
 a {
   font-weight: bold;

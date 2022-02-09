@@ -58,6 +58,7 @@ li{
   margin: 0px;
   padding: 0px;
   position: static;
+  justify-content: space-between;
   display: flex;
   height: 100%;
   width: 100%;
