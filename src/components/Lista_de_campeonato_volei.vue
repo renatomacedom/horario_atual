@@ -18,6 +18,8 @@ export default {
 
   return{
   info:[
+  {categoria:'Volei Praia',nome_torneio:'Open one clube',data:'09/04/22 e 10/04/22', nivel:'Aberto', local:'Maranguape oneclube', contato: "(85)9.98153-1301"},
+  {categoria:'Volei de Praia',nome_torneio:'Festival to na praia ',data:'29/04/22 a 01/05/22 ', nivel:'open',local:'Paracuru Ronco do mar',contato:""},
 
   {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'2° Taça Ceara Volei -',data:'03/12/21 a 05/12/21-', nivel:'Variado', local:'Aracati', contato: "(88)9.9608-4431"},

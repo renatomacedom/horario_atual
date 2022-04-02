@@ -1,7 +1,9 @@
 # horario_atual
 
 ## Project setup
+
 ```
+Necessário versão superior a 8 do node.js
 npm install
 ```
 

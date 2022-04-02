@@ -2,10 +2,9 @@
   <div id="app">
     <div id="nav">
       <Nav></Nav>
-
     </div>
     <router-view/>
-<Footer></Footer>
+    <Footer></Footer>  
   </div>
 </template>
 <script>
