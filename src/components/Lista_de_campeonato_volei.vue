@@ -20,10 +20,6 @@ export default {
   info:[
   {categoria:'Volei Praia',nome_torneio:'Open one clube',data:'09/04/22 e 10/04/22', nivel:'Aberto', local:'Maranguape oneclube', contato: "(85)9.98153-1301"},
   {categoria:'Volei de Praia',nome_torneio:'Festival to na praia ',data:'29/04/22 a 01/05/22 ', nivel:'open',local:'Paracuru Ronco do mar',contato:""},
-
-  {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
-  {categoria:'Volei',nome_torneio:'2° Taça Ceara Volei -',data:'03/12/21 a 05/12/21-', nivel:'Variado', local:'Aracati', contato: "(88)9.9608-4431"},
-  {categoria:'Volei Praia',nome_torneio:'Campeontao cearense de Vôlei de praia',data:'11/12/21 e 12/12/21', nivel:'Masculino Aberto', local:'Fortaleza CFO', contato: "(85)9.3456-3006"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 1 etapa',data:'26/03/22 a 27/03/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 3 etapa',data:'23/07/22 a 24/07/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
@@ -33,6 +29,9 @@ export default {
 ],
 historico:[
 
+{categoria:'Volei Praia',nome_torneio:'Campeontao cearense de Vôlei de praia',data:'11/12/21 e 12/12/21', nivel:'Masculino Aberto', local:'Fortaleza CFO', contato: "(85)9.3456-3006"},
+{categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
+{categoria:'Volei',nome_torneio:'2° Taça Ceara Volei -',data:'03/12/21 a 05/12/21-', nivel:'Variado', local:'Aracati', contato: "(88)9.9608-4431"},
 {categoria:'Volei',nome_torneio:'2° Festival Metropolitano masculino do ceara -',data:'21/11/21-', nivel:'Masculino Aberto-', local:'Horizonte', contato: "(85)9.9814-9058"},
 {categoria:'Volei de praia',nome_torneio:'Mundo unifor 2021 -',data:'02/10/21-', nivel:'Escolar  sub 17-', local:'Fortaleza cactus', contato: "(85)3477-3143"},
 {categoria:'Volei',nome_torneio:'Mundo unifor 2021 -',data:'20/10/21 a 24/10/21-', nivel:'Escolar  sub 17-', local:'Fortaleza Unifor', contato: "(85)3477-3143"},
