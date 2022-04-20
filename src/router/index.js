@@ -60,6 +60,13 @@ const routes = [
       return import(/* webpackChunkName: "about" */ '../views/Melhores_bolas.vue')
     }
   },
+  {
+    path: '/Larvas_migras',
+    name: 'Larvas_migras',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Larvas_migras.vue')
+    }
+  },
 
     {
       path: '/Fluxo_financeiro',

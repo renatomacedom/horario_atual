@@ -23,6 +23,7 @@ export default {
   {titulo:'Como montar uma quadra de areia ?',descricao_curta:'O mínimo que você precisa saber para montar uma quadra de areia para vôlei de praia e beach tennis',nome:'Montar_quadra_areia'},
   {titulo:'A federação cearense de voleibol',descricao_curta:'Como está e quais as dificuldades enfrentadas',nome:'Fevece'},
   {titulo:'Quais melhores bolas do mercado ?',descricao_curta:'Descubra quais as melhores bolas para o vôlei de praia e o futevôlei',nome:'Melhores_bolas'},
+  {titulo:'O que são Larvas Migras ?',descricao_curta:'Veja o que mais afeta atletas e praticantes de esportes praianos',nome:'Larvas_migras'},
 
 
 ],
