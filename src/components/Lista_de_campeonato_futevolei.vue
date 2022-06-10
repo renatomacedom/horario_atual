@@ -13,12 +13,10 @@ export default {
 
   return{
   info:[
-    {categoria:'Futevolei',nome_torneio:'Festival to na praia ',data:'29/04/22 a 01/05/22 ', nivel:'open',local:'Paracuru Ronco do mar',contato:""},
-      {categoria:'Futevolei',nome_torneio:'Torneio Futevolei na praia da almofada',data:'29/05/22 ', nivel:'Não Informado',local:'Fortaleza',contato:"85 9.9149-3601"},
-    {categoria:'Futevolei',nome_torneio:'1° Etapa FCFV ',data:'17/06/22 a 19/06/22 ', nivel:'Open,Master,Amador,Iniciante,Feminino',local:'Fortaleza',contato:"85 9.9149-3601"},
-    {categoria:'Futevolei',nome_torneio:'Copa puro açaí ',data:'abril a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
-    {categoria:'Futevolei',nome_torneio:'Open barreto ',data:'maio a definir ', nivel:'Não informado',local:'Fortaleza arena barreto',contato:"85 9.98827-9077"},
-    {categoria:'Futevolei',nome_torneio:'2° Etapa FCFV ',data:'Julho a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
+    {categoria:'Futevolei',nome_torneio:'1° Etapa Agua de coco arena mm 2022 ',data:'02/07/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
+    {categoria:'Futevolei',nome_torneio:'2° Etapa Pé na areia arena mm 2022 ',data:'20/08/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
+
+    {categoria:'Futevolei',nome_torneio:'2° Etapa FCFV ',data:'29/07/22 a 31/07/22 ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'Copa puro açaí',data:'Agosto a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'3° Etapa FCFV ',data:'Setembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'Open barreto',data:'Novembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
@@ -27,6 +25,8 @@ export default {
 
 ],
 historico:[
+  {categoria:'Futevolei',nome_torneio:'Torneio Futevolei na praia da almofada',data:'29/05/22 ', nivel:'Não Informado',local:'Fortaleza',contato:"85 9.9149-3601"},
+  {categoria:'Futevolei',nome_torneio:'Festival to na praia ',data:'29/04/22 a 01/05/22 ', nivel:'open',local:'Paracuru Ronco do mar',contato:""},
   {categoria:'Futevolei',nome_torneio:'Open One clube ',data:'23/04/22 e 24/04/22 ', nivel:'open',local:'Maranguape one clube',contato:"(85)9.98153-1301"},
   {categoria:'Futevolei',nome_torneio:'1° Torneio MM Arena Futêvolei ',data:'20/11/21 ', nivel:'Iniciante',local:'Fortaleza',contato:"85 9.9969-7003"},
   {categoria:'Futevolei',nome_torneio:'1° Copa Futêvolei Mucuripe ',data:'16/12/21 a 18/12/21 ', nivel:'Iniciante a avançado',local:'Fortaleza',contato:"85 9.9913-5500"},
