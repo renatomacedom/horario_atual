@@ -67,6 +67,13 @@ const routes = [
       return import(/* webpackChunkName: "about" */ '../views/Larvas_migras.vue')
     }
   },
+  {
+    path: '/Circuito_brasileiro_VP',
+    name: 'Circuito_brasileiro_VP',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Circuito_brasileiro_VP.vue')
+    }
+  },
 
     {
       path: '/Fluxo_financeiro',

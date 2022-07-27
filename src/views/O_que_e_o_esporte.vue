@@ -37,7 +37,7 @@ Dito isso, entram em cena dois elementos chaves do esporte. A arbitragem e o pú
 extrínsecos”.
 </p>
 <p>Esse artigo, foi o resumo do artigo de nosso renomado Valdir Jose Barbanti. Segue o Link do seu artigo completo, vale a pena conferir. O QUE É ESPORTE? , revista brasileira Brasileira de Atividade Física & Saúde Escola de Educação Física e Esporte da USP
-<a href="https://www.escavador.com/sobre/3929042/valdir-jose-barbanti">lINK PARA ARTIGO COMPLETO</a>
+<a href="https://www.escavador.com/sobre/3929042/valdir-jose-barbanti">LINK PARA ARTIGO COMPLETO</a>
 </p>
 
   </div>
