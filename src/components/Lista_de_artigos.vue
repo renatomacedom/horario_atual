@@ -1,12 +1,15 @@
 <template lang="html">
   <div >
 <title>Artigos</title>
+<h1>Artigos</h1>
 <ul v-for="artigo in info" class="card">
-<li to="/Lista_de_artigo_bt">
+<li><article class="card">
+
+
   <h3>{{artigo.titulo}}</h3>
    <p>{{artigo.descricao_curta}}</p>
    <button type="button" name="button" @click="link(artigo.nome)">Veja mais</button>
-
+</article>
   </li>
   </ul>
   </div>

@@ -8,6 +8,8 @@
 
   </head>
   <body>
+
+
   <h1> O circuito brasileiro de vôlei de praia chega em Fortaleza.</h1>
   <h5>Evento que ocorrerá no mês de agosto já conta com grandes duplas confirmadas</h5>
 
