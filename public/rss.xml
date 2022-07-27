@@ -5,31 +5,20 @@
   <title>Torneio na praia</title>
   <link>https://torneionapraia.com.br</link>
   <description>Site para divulgar as datas de torneios prianos no ceara</description>
+  <category>Esportes</category>
+  <language>pt-br</language>
+  <author>renatomacedom</author>
+
+
   <item>
     <title>8° Etapa CBV vôlei de praia</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
+    <link>https://torneionapraia.com.br/Circuito_brasileiro_VP</link>
     <description>O circuito brasileiro de vôlei de praia finalmente chega em Fortaleza.</description>
   </item>
   <item>
     <title>O que é o esporte ?</title>
     <link>https://torneionapraia.com.br/O_que_e_o_esporte</link>
     <description>O que difere um esporte de uma brincadeira ? Como saber a hora de levar a sério as atividades esportivas</description>
-  </item>
-
-</channel>
-
-</rss>
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
-
-<channel>
-  <title>O que é o esporte ?</title>
-  <link>https://torneionapraia.com.br/O_que_e_o_esporte</link>
-  <description>O que difere um esporte de uma brincadeira ? Como saber a hora de levar a sério as atividades esportivas</description>
-  <item>
-    <title>8° Etapa CBV vôlei de praia</title>
-    <link>https://www.w3schools.com/xml/xml_rss.asp</link>
-    <description>O circuito brasileiro de vôlei de praia finalmente chega em Fortaleza.</description>
   </item>
 
 </channel>

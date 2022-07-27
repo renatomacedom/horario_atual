@@ -8,6 +8,7 @@ import Lista_de_artigos from '../components/Lista_de_artigos'
 import Lista_de_campeonato_futevolei from '../components/Lista_de_campeonato_futevolei'
 import Footer from '../components/Footer'
 import Nav from '../components/Nav'
+// import Lista_rss from '../components/lista_rss.xml'
 
 
 
