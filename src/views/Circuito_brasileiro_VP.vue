@@ -2,7 +2,14 @@
 
 <template>
 <div class="artigo">
-  <title><h3>O circuito brasileiro de vôlei de praia chega em Fortaleza.</h3></title>
+  <head>
+    <title>O circuito brasileiro de vôlei de praia chega em Fortaleza.</title>
+    <p>Postado dia 27/07/2022</p>
+
+  </head>
+  <body>
+  <h1> O circuito brasileiro de vôlei de praia chega em Fortaleza.</h1>
+
 	<img src="../assets/cbv.jpg" alt="Atletas de vôlei de praia">
 
 
@@ -51,7 +58,7 @@
 	<a href="https://voleidepraiatv.cbv.com.br/">Assista aos jogos aqui.</a>
 </p>
 
-
+</body>
   </div>
 </template>
 <style lang="css" scoped>
@@ -68,6 +75,9 @@ img{
 }
 li{
   width: 100%;
+}
+title{
+  color: black;
 }
 a{
   text-decoration: none;

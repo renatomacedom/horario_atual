@@ -1,6 +1,10 @@
 <template>
   <div class="artigo">
-    <h1>Quais são as melhores bolas do mercado ?</h1>
+    <head>
+      <title>Quais são as melhores bolas do mercado ?</title>
+        <h1>Quais são as melhores bolas do mercado ?</h1>
+    </head>
+
     <body>
       <p>Atualmente existe várias opções de modelos, marcas e empresas no mercado, mas fica tranquilo,
       aqui a gente vai te ajudar a escolher as melhores opções.</p>
