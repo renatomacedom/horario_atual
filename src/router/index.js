@@ -74,6 +74,10 @@ const routes = [
       return import(/* webpackChunkName: "about" */ '../views/Circuito_brasileiro_VP.vue')
     }
   },
+  {
+    path: '/lista_rss',
+    name: 'rss',
+  },
 
     {
       path: '/Fluxo_financeiro',

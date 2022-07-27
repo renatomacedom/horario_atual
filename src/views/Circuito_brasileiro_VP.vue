@@ -23,7 +23,8 @@
   </p>
   <p>Durante a fase mais intensa da pandemia o circuito vinha sendo disputado apenas da bolha de Saquarema, de modo a dar mais segurança aos atletas,
       comissão e demais trabalhadores que fazem o evento acontecer. Passada essa fase, as etapas foram se espalhando pelo território brasileiro,
-      sendo a 8ª Etapa a primeira do ano a ser disputada na região Nordeste do Brasil.</p>
+      sendo a 8ª Etapa a primeira do ano a ser disputada na região Nordeste do Brasil.
+  </p>
 	<p>
 
   	Segundo Pedro Lopes, árbitro federado escalado para a competição, essa etapa tende a ser uma das mais disputadas,
