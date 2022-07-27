@@ -25,14 +25,15 @@ export default {
     {categoria:'Volei de praia',nome_torneio:'3° Praia e mar Arena MM 2022 ',data:'12/11/22 a 12/11/22', nivel:'Masculino e feminino intermediario e avançado', local:'Arena MM', contato: "(85)9.999624-7015"},
     {categoria:'Volei de praia',nome_torneio:'3° Praia e mar Arena MM 2022 ',data:'19/11/22 ', nivel:'Iniciante', local:'Arena MM', contato: "(85)9.999624-7015"},
 
-    {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
 
-  {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 4 etapa',data:'27/08/22 a 28/08/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
 
 
 ],
 historico:[
+  {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
+
+{categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 3 etapa',data:'23/07/22 a 24/07/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 1 etapa',data:'26/03/22 a 27/03/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei de Praia',nome_torneio:'Festival to na praia ',data:'29/04/22 a 01/05/22 ', nivel:'open',local:'Paracuru Ronco do mar',contato:""},
