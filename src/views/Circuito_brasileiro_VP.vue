@@ -13,15 +13,37 @@
   </p>
   <p>
 		Já o diretor da Federação Cearense de Vôlei de Praia, Ronald Rocha, acrescenta que, além de grandes nomes,
-		 a expectativa é de grande público, com mais de 2.000,00 espectadores para esse mega evento sediado na Praia de Ipanema com 5 quadras disponíveis.
+		 a expectativa é de grande público, com mais de 2.000 espectadores para esse mega evento sediado na Praia de Ipanema com 5 quadras disponíveis.
   </p>
 	Se interessou ? O calendário oficial já saiu. A competição ocorrerá entre os dias 17/08/22 a 21/08/22 na Praia de Iracema, com entrada franca.
   <p>
-		17/08 8hrs às 17hrs
-		18/08 8hrs às 17hrs
-		19/08 7hrs às 23hrs
-		20/08 7hrs às 23hrs
-		21/08 8hrs até o final
+		<table>
+  <tr>
+    <td>17/08</td>
+		<td>8hrs às 17hrs</td>
+  </tr>
+	<tr>
+		<td>18/08</td>
+		<td>8hrs às 17hrs</td>
+	</tr>
+	<tr>
+		<td>19/08</td>
+		<td>7hrs às 23hrs</td>
+	</tr>
+	<tr>
+		<td>20/08</td>
+		<td>7hrs às 23hrs</td>
+	</tr>
+	<tr>
+		<td>21/08</td>
+		<td>8hrs até o final</td>
+	</tr>
+
+</table>
+
+
+
+
   </p>
 	<p>Caso não possa comparecer, não se preocupe, os jogos ficarão disponíveis nos canais oficiais da cbv,
 		 sendo as finais transmitidas somente em tv fechada pelo sportv.
@@ -52,6 +74,11 @@ a{
   color: black;
   margin-left: 0;
   margin-right: 0;
+}
+table{
+	margin-left: auto;
+	margin-right: auto;
+
 }
 ul{
   list-style-type: none;
