@@ -36,9 +36,9 @@ Dito isso, entram em cena dois elementos chaves do esporte. A arbitragem e o pú
   Na verdade ele é justamente tudo isso, interligado, podemos dizer que: “Esporte é uma atividade competitiva institucionalizada que envolve esforço físico vigoroso ou o uso de habilidades motoras relativamente complexas, por indivíduos, cuja participação é motivada por uma combinação de fatores intrínsecos e
 extrínsecos”.
 </p>
-<p>Esse artigo, foi o resumo do artigo de nosso renomado Valdir Jose Barbanti. Segue o Link do seu artigo completo, vale a pena conferir. O QUE É ESPORTE? , revista brasileira Brasileira de Atividade Física & Saúde Escola de Educação Física e Esporte da USP
+<p>Esse artigo, foi o resumo do artigo de nosso renomado Valdir Jose Barbanti. Segue o Link do seu artigo completo, vale a pena conferir. O QUE É ESPORTE? , revista brasileira Brasileira de Atividade Física & Saúde Escola de Educação Física e Esporte da USP</p>
 <a href="https://www.escavador.com/sobre/3929042/valdir-jose-barbanti">LINK PARA ARTIGO COMPLETO</a>
-</p>
+
 
   </div>
 </template>
@@ -66,7 +66,6 @@ title{
 }
 a{
   text-decoration: none;
-  color: black;
   margin-left: 0;
   margin-right: 0;
 }
