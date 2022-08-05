@@ -4,7 +4,7 @@
       <Nav></Nav>
     </div>
     <router-view/>
-    <Footer></Footer>  
+    <Footer></Footer>
   </div>
 </template>
 <script>
@@ -26,6 +26,10 @@ export default {
   /* -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale; */
   /* color: #2c3e50; */
+}
+h6{
+  font-weight: lighter;
+  margin-top: 0px;
 }
 
 #nav {

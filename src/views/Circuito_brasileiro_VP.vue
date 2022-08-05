@@ -11,15 +11,15 @@
 
 
   <h1> O circuito brasileiro de vôlei de praia chega em Fortaleza.</h1>
-  <h5>Evento que ocorrerá no mês de agosto já conta com grandes duplas confirmadas</h5>
+  <h6>Evento que ocorrerá no mês de agosto já conta com grandes duplas confirmadas</h6>
 
 	<img src="../assets/cbv.jpg" alt="Atletas de vôlei de praia">
-  <h5 class="sub-titulo-img">Vitória e Andressa têm uma medalha nesta temporada do Circuito Mundial (Créditos: Volleyball World)</h5>
+  <h6 class="sub-titulo-img">Vitória e Andressa têm uma medalha nesta temporada do Circuito Mundial (Créditos: Volleyball World)</h6>
 
 
 
   <p>A 8° rodada do Circuito Brasileiro de vôlei de Praia vai acontecer em terras nordestinas,
-		mais precisamente em Fortaleza na Praia de Iracema. Essa etapa promete ser grande, com grandes duplas já confirmadas.
+		mais precisamente em Fortaleza, na Praia de Iracema. Essa etapa promete ser grande, com grandes duplas já confirmadas.
   </p>
   <p>Durante a fase mais intensa da pandemia o circuito vinha sendo disputado apenas da bolha de Saquarema, de modo a dar mais segurança aos atletas,
       comissão e demais trabalhadores que fazem o evento acontecer. Passada essa fase, as etapas foram se espalhando pelo território brasileiro,
@@ -109,7 +109,9 @@ ul{
     .tabela{
       margin-left: auto;
       margin-right: auto;
-
+}
+td{
+  text-align: center;
 }
 
 

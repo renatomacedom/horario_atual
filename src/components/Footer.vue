@@ -1,10 +1,11 @@
 <template>
   <div class="footer">
-    <a href="http://www.arenamm.com.br" target="_blank">Conheça a Arena MM</a>
+    <a href="http://www.torneionapraia.com.br" target="_blank">Torneio na praia</a>
     <br>
     <br>
-      <img src="../assets/logo_branca.png" />
-       Falco Desenvolvimento de Websites
+    <!-- <a href="http://www.torneionapraia.com.br" target="_blank">Apoiado por Arena MM</a> -->
+      <!-- <img src="../assets/logo_branca.png" />
+       Falco Desenvolvimento de Websites -->
     </div>
 
 
