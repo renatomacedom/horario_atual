@@ -15,8 +15,6 @@ export default {
   info:[
     {categoria:'Futevolei',nome_torneio:'1° Etapa Agua de coco arena mm 2022 ',data:'02/07/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
     {categoria:'Futevolei',nome_torneio:'2° Etapa Pé na areia arena mm 2022 ',data:'20/08/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
-
-    {categoria:'Futevolei',nome_torneio:'2° Etapa FCFV ',data:'29/07/22 a 31/07/22 ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'Copa puro açaí',data:'Agosto a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'3° Etapa FCFV ',data:'Setembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},
     {categoria:'Futevolei',nome_torneio:'Open barreto',data:'Novembro a definir ', nivel:'Não informado',local:'Fortaleza',contato:"85 9.98827-9077"},

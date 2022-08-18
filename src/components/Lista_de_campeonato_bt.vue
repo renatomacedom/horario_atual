@@ -3,7 +3,7 @@
 <title>Campeonatos de Beach tennis</title>
 <ul v-for="campeonato in info" class="card">
 
-  {{campeonato.data}} {{campeonato.categoria}} {{campeonato.nome_torneio}} {{campeonato.nivel}} {{campeonato.local}} {{campeonato.contato}}</ul>
+  {{campeonato.data}} - {{campeonato.nome_torneio}} - {{campeonato.nivel}} - {{campeonato.local}} - {{campeonato.contato}}</ul>
 
   </div>
 </template>
@@ -15,8 +15,9 @@ export default {
 
   return{
   info:[
-
-      {categoria:'bt',nome_torneio:'7º Etapa Campeonato Cearense de Beach tennis ',data:'4/08/22 a 7/08/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Fortaleza Arena Meireles', contato:'85 9.9988-7328'},
+      {categoria:'bt',nome_torneio:'Circuito Santa Praia - 4ª Etapa Vento ',data:'1/09/22 a 04/09/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)',local:'Fortaleza Santa Praia', contato:'https://www.circuitosantapraia.com.br/'},
+      {categoria:'bt',nome_torneio:'WBS Brazil Celebration ',data:'09/09 a 11/09/2022', nivel:'Iniciantes',local:'Fortaleza - CE ', contato:'8532531803'},
+      {categoria:'bt',nome_torneio:'8° Etapa campeonato cearense de beach tennis',data:'20/09/2022 a 25/09/2022', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)',local:'Fortaleza A12- CE ', contato:'85 98656 2563'},
 
 
 
@@ -27,6 +28,7 @@ export default {
 ],
 /*historico:[
   {
+  {categoria:'bt',nome_torneio:'7º Etapa Campeonato Cearense de Beach tennis ',data:'4/08/22 a 7/08/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Fortaleza Arena Meireles', contato:'85 9.9988-7328'},
   {categoria:'bt',nome_torneio:'5º Etapa Campeonato Cearense de Beach tennis ',data:'24/06/22 a 26/06/22', nivel:'Iniciante(Masculino,feminino,misto)',local:'Fortaleza arena mm', contato:'85 9.99962-7015'},
   {categoria:'bt',nome_torneio:'5º Etapa Campeonato Cearense de Beach tennis ',data:'24/06/22 a 26/06/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Fortaleza arena bt 500', contato:'85 9.9988-7328'},
   {categoria:'bt',nome_torneio:'6º Etapa Campeonato Cearense de Beach tennis ',data:'16/07/22 a 18/07/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Eusebio Seeds Beach tennis', contato:'85 9.9988-7328'},
