@@ -20,3 +20,42 @@
 
   </div>
 </template>
+<style scoped>
+
+.sub-titulo-img{
+  text-align: left;
+}
+.artigo{
+text-align: justify;
+width: 70%;
+padding: 2%;
+margin-left: auto;
+margin-right: auto;
+}
+img{
+  height: auto;
+  width: 100%;
+}
+li{
+  width: 100%;
+}
+title{
+  color: black;
+}
+a{
+  text-decoration: none;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+ul{
+  list-style-type: none;
+
+
+  }
+    .tabela{
+      margin-left: auto;
+      margin-right: auto;
+
+}
+</style>

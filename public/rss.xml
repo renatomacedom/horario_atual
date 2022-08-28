@@ -4,7 +4,7 @@
 <channel>
   <title>Torneio na praia</title>
   <link>https://torneionapraia.com.br</link>
-  <description>Site para divulgar as datas de torneios prianos no ceara</description>
+  <description>Site para divulgar as datas de torneios praianos no ceara</description>
   <category>Esportes</category>
   <language>pt-br</language>
   <author>renatomacedom</author>
@@ -22,6 +22,11 @@
     <title>O que é o esporte ?</title>
     <link>https://torneionapraia.com.br/O_que_e_o_esporte</link>
     <description>O que difere um esporte de uma brincadeira ? Como saber a hora de levar a sério as atividades esportivas</description>
+  </item>
+  <item>
+    <title>Lavar migras</title>
+    <link>https://torneionapraia.com.br/Larvas_migras</link>
+    <description>Veja o que mais afeta atletas e praticantes de esportes praianos</description>
   </item>
 
 </channel>

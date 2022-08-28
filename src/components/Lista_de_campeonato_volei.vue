@@ -20,6 +20,8 @@ export default {
   info:[
     {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 4 etapa',data:'27/08/22 a 28/08/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
     {categoria:'Volei de praia',nome_torneio:'2° Pé na areia Arena MM 2022 ',data:'16/09/22 a 18/09/22', nivel:'Masculino,feminino e misto Iniciante, intermediario e avançado', local:'Arena MM', contato: "(85)9.999624-7015"},
+    {categoria:'Volei de praia',nome_torneio:'3° Preá open Volei e Beach tennis ',data:'24/09/22 a 25/09/22', nivel:'Masculino Feminino e 70+', local:'Arena Acp - Preá', contato: "(88)9.99730-5466"},
+
 
 
 ],

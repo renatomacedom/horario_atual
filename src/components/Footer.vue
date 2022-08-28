@@ -26,7 +26,7 @@ export default {
 .footer{
   text-align: center;
   background-color: #4F5D75;
-  margin-bottom: 0%;
+  margin-bottom: 0px;
   margin-left: auto;
   margin-right: auto;
   padding-top: 3%;
