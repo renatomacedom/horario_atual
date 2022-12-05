@@ -13,7 +13,7 @@ export default {
 
   return{
   info:[
-    {categoria:'Futevolei',nome_torneio:'2°Open futevôlei  ',data:'12/07/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
+    {categoria:'Futevolei',nome_torneio:'2°Open futevôlei  ',data:'12/12/22 ', nivel:'Iniciante e amadador',local:'Fortaleza',contato:"85 9.99962-7015"},
 
 
 

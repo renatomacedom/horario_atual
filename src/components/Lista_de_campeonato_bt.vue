@@ -15,9 +15,12 @@ export default {
 
   return{
   info:[
-    {categoria:'bt',nome_torneio:'Play benificente  ',data:'1/12/22', nivel:'Iniciante', local:'Préa/Ce', contato: "(88)9.99730-5466"},
+    {categoria:'bt',nome_torneio:'Play benificente  ',data:'10/12/22', nivel:'Iniciante', local:'Préa/Ce', contato: "(88)9.99730-5466"},
+    {categoria:'bt',nome_torneio:'TORNEIO TEAM SEEDS BEACH TENNIS',data:'09/12/22 a 11/12/2022', nivel:'Iniciantes, c e opn',local:'seeds Eusebio - CE ', contato:'85 98150 5021'},
+    {categoria:'bt',nome_torneio:'1° TORNEIO DE BEACH TENNIS ARENA R2',data:'13/01/22 a 15/01/22', nivel:'Principiantes,Iniciante,c e open', local:'Arena r2,Eusebio', contato: "(85)9.9985-0809"},
 
-    
+
+
 
 
   ],
