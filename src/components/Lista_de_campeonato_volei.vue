@@ -18,15 +18,17 @@ export default {
 
   return{
   info:[
-    {categoria:'Volei de praia',nome_torneio:'2° Etapa circuito cearense volei ',data:'09/09/22 a 11/09/22', nivel:'Sub 15, sub 17 e sub 21 masculino e feminino', local:'Aterro praia de iracema wbs', contato: "(85)3456-3006"},
-    {categoria:'Volei de praia',nome_torneio:'2° Pé na areia Arena MM 2022 ',data:'16/09/22 a 18/09/22', nivel:'Masculino,feminino e misto Iniciante, intermediario e avançado', local:'Arena MM', contato: "(85)9.999624-7015"},
-    {categoria:'Volei de praia',nome_torneio:'3° Preá open Volei e Beach tennis ',data:'24/09/22 a 25/09/22', nivel:'Masculino Feminino e 70+', local:'Arena Acp - Preá', contato: "(88)9.99730-5466"},
-    {categoria:'Volei',nome_torneio:'3° Torneio Alex Ponciano',data:'08/10/22 a 09/10/22', nivel:'Masculino Aberto', local:'Escola Prof João Hippoólyto - Fortaleza', contato: "(85)9.8800-5522"},
+    {categoria:'Volei de praia',nome_torneio:'2° Pé torneio vf team ',data:'10/12/22', nivel:'iniciante, intermediario', local:'Arena 12', contato: "@verenafigueira"},
+
 
 
 
 ],
 historico:[
+  {categoria:'Volei de praia',nome_torneio:'2° Etapa circuito cearense volei ',data:'09/09/22 a 11/09/22', nivel:'Sub 15, sub 17 e sub 21 masculino e feminino', local:'Aterro praia de iracema wbs', contato: "(85)3456-3006"},
+  {categoria:'Volei de praia',nome_torneio:'2° Pé na areia Arena MM 2022 ',data:'16/09/22 a 18/09/22', nivel:'Masculino,feminino e misto Iniciante, intermediario e avançado', local:'Arena MM', contato: "(85)9.999624-7015"},
+  {categoria:'Volei de praia',nome_torneio:'3° Preá open Volei e Beach tennis ',data:'24/09/22 a 25/09/22', nivel:'Masculino Feminino e 70+', local:'Arena Acp - Preá', contato: "(88)9.99730-5466"},
+  {categoria:'Volei',nome_torneio:'3° Torneio Alex Ponciano',data:'08/10/22 a 09/10/22', nivel:'Masculino Aberto', local:'Escola Prof João Hippoólyto - Fortaleza', contato: "(85)9.8800-5522"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 1 etapa',data:'26/03/22 a 27/03/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 2 etapa',data:'21/05/22 a 22/05/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},
   {categoria:'Volei',nome_torneio:'3° Festival Metropolitano  do ceara 3 etapa',data:'23/07/22 a 24/07/22', nivel:'Masculino e feminino', local:'Indefinido', contato: "(85)9.9814-9058"},

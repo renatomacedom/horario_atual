@@ -15,23 +15,21 @@ export default {
 
   return{
   info:[
-      {categoria:'bt',nome_torneio:'WBS Brazil Celebration ',data:'09/09/22 a 11/09/2022', nivel:'Iniciantes',local:'Fortaleza - CE ', contato:'8532531803'},
-      {categoria:'bt',nome_torneio:'1° Ano Arena Original',data:'16/09/22 a 18/09/22', nivel:'Principiantes,Iniciante,intermediária e mista', local:'Arena original, sede azevedo bolão - Fortaleza', contato: "(85)9.9174-2084"},
-      {categoria:'bt',nome_torneio:'8° Etapa campeonato cearense de beach tennis',data:'20/09/2022 a 25/09/2022', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)',local:'Fortaleza A12- CE ', contato:'85 98656 2563'},
-      {categoria:'bt',nome_torneio:'3° Preá open Volei e Beach tennis ',data:'24/09/22 a 25/09/22', nivel:'Masculino Feminino e 70+', local:'Arena Acp - Preá', contato: "(88)9.99730-5466"},
-      {categoria:'bt',nome_torneio:'9° Etapa campeonato cearense de beach tennis ',data:'6/10/22 a 09/10/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'RBBT - Fortaleza', contato: "(85)9.8146-4854"},
-      {categoria:'bt',nome_torneio:'10° Etapa campeonato cearense de beach tennis ',data:'18/10/22 a 23/10/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Arena set - Fortaleza', contato: "(85)9.8146-4854"},
-      {categoria:'bt',nome_torneio:'11° Etapa campeonato cearense de beach tennis ',data:'3/11/22 a 06/11/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Spine - Fortaleza', contato: "(85)9.8146-4854"},
-      {categoria:'bt',nome_torneio:'12° Etapa campeonato cearense de beach tennis ',data:'1/12/22 a 04/12/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Marabeach - Fortaleza', contato: "(85)9.8146-4854"},
+    {categoria:'bt',nome_torneio:'Play benificente  ',data:'1/12/22', nivel:'Iniciante', local:'Préa/Ce', contato: "(88)9.99730-5466"},
+
+    
 
 
-
-
-
-
-
-],
+  ],
 /*historico:[
+{categoria:'bt',nome_torneio:'WBS Brazil Celebration ',data:'09/09/22 a 11/09/2022', nivel:'Iniciantes',local:'Fortaleza - CE ', contato:'8532531803'},
+{categoria:'bt',nome_torneio:'1° Ano Arena Original',data:'16/09/22 a 18/09/22', nivel:'Principiantes,Iniciante,intermediária e mista', local:'Arena original, sede azevedo bolão - Fortaleza', contato: "(85)9.9174-2084"},
+{categoria:'bt',nome_torneio:'8° Etapa campeonato cearense de beach tennis',data:'20/09/2022 a 25/09/2022', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)',local:'Fortaleza A12- CE ', contato:'85 98656 2563'},
+{categoria:'bt',nome_torneio:'3° Preá open Volei e Beach tennis ',data:'24/09/22 a 25/09/22', nivel:'Masculino Feminino e 70+', local:'Arena Acp - Preá', contato: "(88)9.99730-5466"},
+{categoria:'bt',nome_torneio:'9° Etapa campeonato cearense de beach tennis ',data:'6/10/22 a 09/10/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'RBBT - Fortaleza', contato: "(85)9.8146-4854"},
+{categoria:'bt',nome_torneio:'10° Etapa campeonato cearense de beach tennis ',data:'18/10/22 a 23/10/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Arena set - Fortaleza', contato: "(85)9.8146-4854"},
+{categoria:'bt',nome_torneio:'11° Etapa campeonato cearense de beach tennis ',data:'3/11/22 a 06/11/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Spine - Fortaleza', contato: "(85)9.8146-4854"},
+{categoria:'bt',nome_torneio:'12° Etapa campeonato cearense de beach tennis ',data:'1/12/22 a 04/12/22', nivel:'Iniciante,c,b,a,pro,(Masculino,feminino misto)', local:'Marabeach - Fortaleza', contato: "(85)9.8146-4854"},
   {
   {categoria:'bt',nome_torneio:'7º Etapa Campeonato Cearense de Beach tennis ',data:'4/08/22 a 7/08/22', nivel:'subs 12,14, 40+ 50+,Iniciante,c,b,a,pro,(Masculino,feminino,misto)',local:'Fortaleza Arena Meireles', contato:'85 9.9988-7328'},
   {categoria:'bt',nome_torneio:'5º Etapa Campeonato Cearense de Beach tennis ',data:'24/06/22 a 26/06/22', nivel:'Iniciante(Masculino,feminino,misto)',local:'Fortaleza arena mm', contato:'85 9.99962-7015'},
