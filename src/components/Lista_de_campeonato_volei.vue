@@ -18,7 +18,12 @@ export default {
 
   return{
   info:[
+    {categoria:'Volei de praia',nome_torneio:'1° torneio dias de beah tennis ',data:'16/05/23', nivel:'intermediario', local:'Dias de Beach Tennis', contato: "@complexobeachfood"},
     {categoria:'Volei de praia',nome_torneio:'2° Pé torneio vf team ',data:'10/12/22', nivel:'iniciante, intermediario', local:'Arena 12', contato: "@verenafigueira"},
+    {categoria:'Volei de praia',nome_torneio:'2° Pé torneio vf team ',data:'10/12/22', nivel:'iniciante, intermediario', local:'Arena 12', contato: "@verenafigueira"},
+    {categoria:'Volei de praia',nome_torneio:'2° Pé torneio vf team ',data:'10/12/22', nivel:'iniciante, intermediario', local:'Arena 12', contato: "@verenafigueira"},
+    {categoria:'Volei de praia',nome_torneio:'2° Pé torneio vf team ',data:'10/12/22', nivel:'iniciante, intermediario', local:'Arena 12', contato: "@verenafigueira"},
+
 
 
 
